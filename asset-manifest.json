@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-calc/static/css/main.cd3387e7.css",
-    "main.js": "/react-calc/static/js/main.27366112.js",
-    "index.html": "/react-calc/index.html",
-    "main.cd3387e7.css.map": "/react-calc/static/css/main.cd3387e7.css.map",
-    "main.27366112.js.map": "/react-calc/static/js/main.27366112.js.map"
+    "main.css": "/%60https://georgeatefmetry.github.io/Calculator-React-%60/static/css/main.cd3387e7.css",
+    "main.js": "/%60https://georgeatefmetry.github.io/Calculator-React-%60/static/js/main.27366112.js",
+    "index.html": "/%60https://georgeatefmetry.github.io/Calculator-React-%60/index.html",
+    "main.cd3387e7.css.map": "/%60https://georgeatefmetry.github.io/Calculator-React-%60/static/css/main.cd3387e7.css.map",
+    "main.27366112.js.map": "/%60https://georgeatefmetry.github.io/Calculator-React-%60/static/js/main.27366112.js.map"
   },
   "entrypoints": [
     "static/css/main.cd3387e7.css",
